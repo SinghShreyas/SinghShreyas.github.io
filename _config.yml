@@ -63,9 +63,7 @@ content:
           Improving Retrieval System for QA System
         description: | # this will include new lines to allow paragraphs
           My research is focused on using machine learning techniques (Language Models) for information retrieval.
-  - title: Education
-    layout: list
-    content:
+
       - layout: left
         title: MACQUARIE UNIVERSITY, Sydney, NSW
         caption: Feb 2020 - Dec 2021
@@ -76,7 +74,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           My research is focused on using machine learning techniques (Language Models) for information retrieval.
 
-    content:
+ 
       - layout: left
         title: UNIVERSITY OF MUMBAI, Mumbai, MH, India
         caption: July 2012 - Aug 2016
