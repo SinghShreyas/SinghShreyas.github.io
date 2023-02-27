@@ -9,20 +9,19 @@ version: 2
 name: Shreyas Kumar Singh
 title: Data Scientist
 email: sk.shreyassingh@gmail.com
-mobile: +61 480 244 892
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: sin_shreyas
+# twitter_username: sin_shreyas
 github_username:  ShreyasSingh
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: sin_shreyas
+# instagram_username: sin_shreyas
 linkedin_username: sinshreyas
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -49,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a recent graduate with a Master of Data Science and Master of Research from Macquarie University, Sydney. I am skilled in exploratory data analysis, statistical modeling, machine learning, data visualization and sound mathematical and reasoning skills. Proficient in Python, R, SQL, and various data analysis tools.  Seeking to leverage my skills and experience to contribute to the growth of a forward-thinking organization.
+  An experienced IT professional with 2 years of  experience and  recent graduate with a Master of Data Science and Master of Research from Macquarie University, Sydney. I am skilled in exploratory data analysis, statistical modeling, machine learning, data visualization and sound mathematical and reasoning skills. Proficient in Python, R, SQL, and various data analysis tools.  Seeking to leverage my skills and experience to contribute to the growth of a forward-thinking organization.
 
 
 content:
@@ -58,12 +57,14 @@ content:
     content:
       - layout: left
         title: MACQUARIE UNIVERSITY, Sydney, NSW
-        caption: Jan 2022 - Dec 2022 (Expected)
+        caption: Jan 2022 - Jan 2023 (Expected)
         sub_title: Master of Research
         quote: >
           Improving Retrieval System for QA System
         description: | # this will include new lines to allow paragraphs
           My Research is focused on building a retrieval system (Search)  to be used for a QA System.
+          - Awardee, R2R International Research Excellence Scholarship.
+          - MachineLearning, NLP, Language Models, Information Retrieval.
 
       - layout: left
         title: MACQUARIE UNIVERSITY, Sydney, NSW
