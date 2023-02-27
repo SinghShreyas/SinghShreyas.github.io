@@ -115,7 +115,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
             Responsibilities:
-            - Core team member of truuth liveness detection product
+            - Core team member of truuth liveness detection product.
             - Researched state-of-the-art techniques that can be incorporated into liveness detection product to detect presentation attacks
             - Extracted rPPG signals from video to distinguish between fake and real images.
             - Responsible for creating ML models that can detect presentation attacks (techniques used CNN and traditional ML algorithms like SVM, Random Forest, etc.)
