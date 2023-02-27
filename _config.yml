@@ -60,7 +60,7 @@ content:
         caption: Jan 2022 - Jan 2023 (Expected)
         sub_title: Master of Research
         quote: >
-          Improving Retrieval System for QA System
+          
         description: | # this will include new lines to allow paragraphs
           My Research is focused on building a retrieval system (Search)  to be used for a QA System.
           - Awardee, R2R International Research Excellence Scholarship.
@@ -86,25 +86,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Major in Computer engineering
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -123,6 +104,57 @@ content:
             - Conducted one-to-one consultation classes
             - Graded students assignments 
             - Conducted Viva for final exam assessment
+
+      - layout: left
+        title: Truuth (Locii Innovation Pty Ltd)
+        link: truuth.id
+        # link_text: boringcompany.com
+        sub_title: Data Science Intern
+        caption: June 2021 - Dec 2021
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            Responsibilities:
+            - Core team member of truuth liveness detection product
+            - Researched state-of-the-art techniques that can be incorporated into liveness detection product to detect presentation attacks
+            - Extracted rPPG signals from video to distinguish between fake and real images.
+            - Responsible for creating ML models that can detect presentation attacks (techniques used CNN and traditional ML algorithms like SVM, Random Forest, etc.)
+            - Increased the accuracy of the existing ML model from 60% to 94.7% with FAR of 1.7% and FRR of 16.2%
+
+      - layout: left
+        title: Headsup7 Corporation
+        link: mq.edu.au
+        # link_text: boringcompany.com
+        sub_title: iOS Developer
+        caption: January 2022 - Present
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            Responsibilities:
+            - Involved in conducting Workshops and Practicals for groups of 20 to 30 students in each class
+            - Taught Fundamentals of Computer Science using Python, Big Data and Machine Learning to Undergrad and Postgrad students
+            - Conducted one-to-one consultation classes
+            - Graded students assignments 
+            - Conducted Viva for final exam assessment
+
+   - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: A Little More About Me
     layout: text
